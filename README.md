@@ -47,23 +47,10 @@ Get the latest version on the **Releases** page:
 Download the EXE and run it.
 If SmartScreen warns, choose *More info* then *Run anyway*.
 
-**Linux:**
-Download the `.deb` file.
-Install with your software center, or run:
-
-```
-sudo dpkg -i sector.deb
-```
-
 ## Status
 
 Sector is early-stage software.
 Feedback helps shape the next version.
-
-## Contact
-
-For questions or issues, email:
-**your-email-here**
 
 ---
 
