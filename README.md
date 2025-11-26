@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sector.png" alt="Sector logo" width="120" style="border-radius:16px;">
+</p>
+
 # Sector
 
 Sector is a simple desktop task manager built for focus.
