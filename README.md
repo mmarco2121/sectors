@@ -48,6 +48,11 @@ Get the latest version on the **Releases** page:
 Download the EXE and run it.
 If SmartScreen warns, choose *More info* then *Run anyway*.
 
+**Linux:**
+Download the .deb file
+Install it using your software center or:
+sudo dpkg -i Sector_0.2.0-1_amd64.deb
+
 ## Status
 
 Sectors is early-stage software.
