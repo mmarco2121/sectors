@@ -44,7 +44,7 @@ Get the latest version on the **Releases** page:
 
 **Windows:** [sector.exe](https://github.com/mmarco2121/sectors/releases/download/v0.1.0/sector.exe) as standalone or [Sector-Setup.exe](https://github.com/mmarco2121/sectors/releases/download/v0.1.0/Sector-Setup.exe)
 
-**Linux (.deb):** [Sectors_0.2.0-1_amd64.deb](https://github.com/mmarco2121/sectors/releases/download/v0.2.1/Sectors_0.2.1-1_amd64.deb)
+**Linux (.deb):** [Sectors_0.2.1-1_amd64.deb](https://github.com/mmarco2121/sectors/releases/download/v0.2.1/Sectors_0.2.1-1_amd64.deb)
 
 ## Install
 
