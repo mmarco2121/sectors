@@ -9,7 +9,7 @@ It uses time buckets instead of one long list. You drop tasks into clear zones s
 It is inspired by **Carl Pullein’s Time Sector System**, adapted into a desktop workflow.
 
 <p align="center">
-  <img src="sectors_app.png" alt="Sector logo" width="800" height="600" style="border-radius:16px;">
+  <img src="sector_app.png" alt="Sector logo" width="800" height="600" style="border-radius:16px;">
 </p>
 
 ## How it works
