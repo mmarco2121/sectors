@@ -42,9 +42,9 @@ This keeps the load clear and stops list overload.
 
 Get the latest version on the **Releases** page:
 
-**Windows:** [sector.exe](https://github.com/mmarco2121/sectors/releases/download/v0.1.0/sector.exe) as standalone or [Sector-Setup.exe](https://github.com/mmarco2121/sectors/releases/download/v0.1.0/Sector-Setup.exe)
+**Windows:** [Sector-Setup.exe]([https://github.com/mmarco2121/sectors/releases/download/v0.1.0/Sector-Setup.exe](https://github.com/mmarco2121/sectors/releases/download/v0.2.1/Sector-0.2.1-Setup.exe))
 
-**Linux (.deb):** [Sectors_0.2.1-1_amd64.deb](https://github.com/mmarco2121/sectors/releases/download/v0.2.1/Sectors_0.2.1-1_amd64.deb)
+**Linux (.deb):** [Sectors_0.2.1-1_amd64.deb](https://github.com/mmarco2121/sectors/releases/download/v0.2.1/Sectors_0.2.2-1_amd64.deb)
 
 ## Install
 
