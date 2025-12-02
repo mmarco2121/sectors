@@ -55,7 +55,7 @@ If SmartScreen warns, choose *More info* then *Run anyway*.
 **Linux:**
 Download the .deb file
 Install it using your software center or:
-sudo dpkg -i Sector_0.2.1-1_amd64.deb
+sudo dpkg -i Sector_0.2.3-1_amd64.deb
 
 ## Status
 
