@@ -42,7 +42,7 @@ This keeps the load clear and stops list overload.
 
 Get the latest version on the **Releases** page:
 
-**Windows:** [Sector-0.5.0-Setup.exe](https://github.com/mmarco2121/sectors/releases/download/v0.5.0/Sector-0.5.0-Setup.exe)
+**Windows:** [Sectors-0.5.0-Setup.exe](https://github.com/mmarco2121/sectors/releases/download/v0.5.0/Sectors-0.5.0-Setup.exe)
 
 **Linux (.deb):** [Sectors_0.5.0-1_amd64.deb](https://github.com/mmarco2121/sectors/releases/download/v0.5.0/Sectors_0.5.0-1_amd64.deb)
 
@@ -55,7 +55,7 @@ If SmartScreen warns, choose *More info* then *Run anyway*.
 **Linux:**
 Download the .deb file
 Install it using your software center or:
-sudo dpkg -i Sector_0.5.0-1_amd64.deb
+sudo dpkg -i Sectors_0.5.0-1_amd64.deb
 
 ## Status
 
