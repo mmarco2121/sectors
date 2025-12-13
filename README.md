@@ -37,6 +37,7 @@ This keeps the load clear and stops list overload.
 * Routine tasks with auto-generation
 * Local storage on your machine
 * Clean layout with calm visuals
+* Goals
 
 ## Downloads
 
