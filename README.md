@@ -47,6 +47,8 @@ Get the latest version on the **Releases** page:
 
 **Linux (.deb):** [Sectors_0.7.0-1_amd64.deb](https://github.com/mmarco2121/sectors/releases/download/v0.7.0/Sectors_0.7.0-1_amd64.deb)
 
+**Linux (.flatpak):** [Sectors-0.7.0.flatpak](https://github.com/mmarco2121/sectors/releases/download/v0.7.0/Sectors-0.7.0.flatpak)
+
 ## Install
 
 **Windows:**
@@ -54,9 +56,9 @@ Download the EXE and run it.
 If SmartScreen warns, choose *More info* then *Run anyway*.
 
 **Linux:**
-Download the .deb file
+Download the .deb file or the flatpak file
 Install it using your software center or:
-sudo dpkg -i Sectors_0.7.0-1_amd64.deb
+sudo dpkg -i Sectors_0.7.0-1_amd64.deb or flatpak install Sectors-0.7.0.flatpak
 
 ## Status
 
