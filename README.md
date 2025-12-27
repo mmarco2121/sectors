@@ -37,11 +37,11 @@ Tasks live in one sector at a time. Move them forward as you plan your day and w
 ## Downloads
 Get the latest version from the Releases page:
 
-Windows: Sectors-1.0.0.exe
+Windows: Sectors-1.1.0.exe
 
-Linux (.deb): Sectors_1.0.0-1_amd64.deb
+Linux (.deb): Sectors_1.1.0-1_amd64.deb
 
-Linux (Flatpak): Sectors-1.0.0.flatpak
+Linux (Flatpak): Sectors-1.1.0.flatpak
 
 ## Installation
 Windows: Download the EXE and run it. If Windows SmartScreen warns you, click "More info" then "Run anyway".
