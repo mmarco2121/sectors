@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/sectors.png" alt="Sector logo" width="120" style="border-radius:16px;">
+  <img src="icons/sectors.png" alt="Sector logo" width="120" style="border-radius:16px;">
 </p>
 
 # Sectors
