@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sectors.png" alt="Sector logo" width="120" style="border-radius:16px;">
+  <img src="screenshots/sectors.png" alt="Sector logo" width="120" style="border-radius:16px;">
 </p>
 
 # Sectors
@@ -7,7 +7,7 @@ A simple desktop task manager built for focus. Organize tasks into time-based se
 Inspired by Carl Pullein's Time Sector System, adapted for desktop workflows.
 
 <p align="center">
-  <img src="main-window.png" alt="Sector logo" width="800" height="600" style="border-radius:16px;">
+  <img src="screenshots/main-window.png" alt="Sector logo" width="800" height="600" style="border-radius:16px;">
 </p>
 
 ## How It Works
