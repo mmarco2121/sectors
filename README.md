@@ -7,7 +7,7 @@ A simple desktop task manager built for focus. Organize tasks into time-based se
 Inspired by Carl Pullein's Time Sector System, adapted for desktop workflows.
 
 <p align="center">
-  <img src="sectors_app.png" alt="Sector logo" width="800" height="600" style="border-radius:16px;">
+  <img src="main-window.png" alt="Sector logo" width="800" height="600" style="border-radius:16px;">
 </p>
 
 ## How It Works
