@@ -48,11 +48,11 @@ Windows: Download the EXE and run it. If Windows SmartScreen warns you, click "M
 
 Linux (.deb): Download and install via your software center, or:
 ```bash
-sudo dpkg -i Sectors_1.0.0-1_amd64.deb
+sudo dpkg -i Sectors_1.1.0-1_amd64.deb
 ```
 Linux (Flatpak): Download and install:
 ```bash
-flatpak install Sectors-1.0.0.flatpak
+flatpak install Sectors-1.1.0.flatpak
 ```
 ## The 2+8 System
 In the Today sector, the app enforces focus:
